@@ -2,7 +2,7 @@
 
 
 ## Authors
-- Alejandro Puentes-Amezquita, alejandropa
+- Alejandro Puentes-Amezquita, (https://github.com/alejandropa)
 - Yiyang Liang, github account 
 
 ## Description
