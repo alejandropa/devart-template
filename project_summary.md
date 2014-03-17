@@ -6,7 +6,7 @@
 - Yiyang Liang, github account 
 
 ## Description
-Our project review the principles of visual poetry, sculpting text into imaginary cities. Based upon Italo Calvino's book “The Invisible Cities”, our installation aims to build a multimedia journey, through 3D-text-analysis generated models of the cities described by Marco Polo to Kublai Kahn. Using the Natural Language Processing Tool Kit for Python, Rhino-Python, Processing and Kinect, our goal is to generate an immersive dream in which users experience the two characters of the book as they navigate through the installation: traveling to unknown cities (as Marco Polo) and listening to their description (as Kublai Khan). 
+Our project review the principles of visual poetry, sculpting text into imaginary cities. Based upon Italo Calvino's book “The Invisible Cities”, our installation aims to build a multimedia journey through 3D-text-analysis generated models of the cities described by Marco Polo to Kublai Kahn. Using the Natural Language Processing Tool Kit for Python, Rhino-Python, Processing and Kinect, our goal is to generate an immersive dream in which users can experience the two characters of the book as they navigate through the installation: traveling to unknown cities (as Marco Polo) and listening to their description (as Kublai Khan). 
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
