@@ -1,5 +1,5 @@
 # Invisible Cities
-
+Sculpting Text into Imaginary Cities
 
 ## Authors
 - Alejandro Puentes-Amezquita, [GitHub](https://github.com/alejandropa)
