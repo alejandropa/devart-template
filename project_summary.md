@@ -6,7 +6,7 @@
 - Yiyang Liang, github account 
 
 ## Description
-Our project explores the concept of visual poetry, sculpting text into imaginary cities. Based upon Italo Calvino's book “The Invisible Cities”, our installation aims to build a multimedia journey experience, through text-analysis generated models of the cities described by Marco Polo to Kublai Kahn. 
+Our project explores the concept of visual poetry, sculpting text into imaginary cities. Based upon Italo Calvino's book “The Invisible Cities”, our installation aims to build a multimedia journey, through text-analysis generated models of the cities described by Marco Polo to Kublai Kahn. 
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
